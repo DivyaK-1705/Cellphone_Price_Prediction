@@ -35,4 +35,5 @@ Conclusion
 This project helps understand how different mobile features influence pricing and supports data-driven decision making.
 
 Author
+
 Divya K
