@@ -17,9 +17,9 @@ Project Workflow
 5. Dashboard Creation (Power BI)  
 
 Key Insights
-- 📌 RAM has the highest impact on price range  
-- 🔋 Battery power affects mid-range phones  
-- 📊 Feature combinations determine final pricing  
+- RAM has the highest impact on price range  
+- Battery power affects mid-range phones  
+- Feature combinations determine final pricing  
 
 Files Included
 - `mobile_data_cleaned.csv` → Dataset  
